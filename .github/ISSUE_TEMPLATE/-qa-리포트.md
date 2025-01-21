@@ -1,7 +1,7 @@
 ---
 name: "\bQA 리포트"
 about: 이슈가 있다면 여기에 작성해주세요!
-title: 버그 리포트
+title: "[OS-Browser] 버그 리포트"
 labels: ''
 assignees: ''
 
